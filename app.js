@@ -70,7 +70,7 @@ app.post('/', function (req, res) {
   });
 
 
-app.listen(process.env.PORT, function () {
+app.listen(process.env.PORT || port, function () {
     console.log(`Example app listening on port ${port}!`);
 });
 
