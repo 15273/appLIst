@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-vscode.vscode-typescript-next",
+        "donjayamanne.jquerysnippets",
+        "chris-noring.node-snippets",
+        "eg2.vscode-npm-script",
+        "akamud.vscode-javascript-snippet-pack"
+    ]
+}
