@@ -80,12 +80,3 @@ app.post("/failure", function(req, res){
 
 
 
-//02151af889
-
-
-// dc="YOUR_DC"
-// apikey="YOUR_API_KEY"
-
-
-//   "https://${dc}.api.mailchimp.com/3.0/ping" \
-// "anystring:${apikey}" | jq -r
